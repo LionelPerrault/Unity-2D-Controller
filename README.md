@@ -8,9 +8,9 @@ A customizable 2D platformer motor that handles mechanics such as double jumps, 
 <!---%=obtain%-->
 
 #### Obtain! ####
-[Releases](https://github.com/cjddmut/Unity-2D-Platformer-Controller/releases)
+[Releases](https://github.com/LionelPerrault/Unity-2D-Controller/releases)
 
-If you'd like the most up to date version (which is the most cool), then pull the repo or download it [here](https://github.com/cjddmut/Unity-2D-Platformer-Controller/archive/develop.zip) and copy the files in Assets to your project's Assets folder.
+If you'd like the most up to date version (which is the most cool), then pull the repo or download it [here](https://github.com/LionelPerrault/Unity-2D-Controller/archive/develop.zip) and copy the files in Assets to your project's Assets folder.
 
 <!---%=docrest%-->
 
@@ -439,7 +439,7 @@ Sure can. PlatformerMotor2D doesn't know anything about inputs, it just acts on 
 If you're using the supplied PlayerController2D script or one of your own in which you use Input.GetAxis() then there's a built in deceleration in what Input.GetAxis() returns. This can definitely be impacting the distance the GameObject skids to a stop! To see a true skid to stop, set normalizedXMovement to zero.
 
 **Something isn't working right!**
-Well, this happens. Please open up an [issue](https://github.com/cjddmut/Unity-2D-Platformer-Controller/issues)!
+Well, this happens. Please open up an [issue](https://github.com/LionelPerrault/Unity-2D-Controller/issues)!
 
 ## Games using the Unity 2D Platformer Controller
 
@@ -447,7 +447,6 @@ Well, this happens. Please open up an [issue](https://github.com/cjddmut/Unity-2
 
 [Beep Boop](http://cjkimberlin.com/games/LD32/WebGL/index.html) - Help Beep Boop navigate past dangers using its unconventional weapon to send it flying. Created solo in 72 hours for Ludumdare 32.
 
-If you are using the motor for your game, add it and set up a pull request or let me know at [@cjkimberlin](https://twitter.com/cjkimberlin)!
 <!---%title=Unity 2D Platformer Controller%-->
-<!---%download=https://github.com/cjddmut/Unity-2D-Platformer-Controller/releases/download/v0.2.0/PC2D_v0.2.0b.unitypackage%-->
-<!---%github=https://github.com/cjddmut/Unity-2D-Platformer-Controller%-->
+<!---%download=https://github.com/LionelPerrault/Unity-2D-Controller/releases/download/v0.2.0/PC2D_v0.2.0b.unitypackage%-->
+<!---%github=https://github.com/LionelPerrault/Unity-2D-Controller%-->
